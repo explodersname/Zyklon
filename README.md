@@ -1,4 +1,7 @@
 # Zyklon
+
+This fork of Zyklon is an attempt by me to make it compatible with linux based distros, if you have any ideas on how I can get this to work please make a ticket at: https://github.com/explodersname/Zylon/issues
+
 ![](https://i.imgur.com/ykbhv5wg.png)<br>
 ![](https://i.imgur.com/li08zjx.png)<br>
 ![](https://i.imgur.com/sX2f3fV.png)<br>
