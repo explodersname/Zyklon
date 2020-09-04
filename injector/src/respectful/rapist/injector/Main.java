@@ -18,7 +18,7 @@ public class Main extends Application {
         try {
             Method addURL = URLClassLoader.class.getDeclaredMethod("addURL", URL.class);
             addURL.setAccessible(true);
-            addURL.invoke(ClassLoader.getSystemClassLoader(), new URL("file:///" + System.getenv("JAVA_HOME") + "\\lib\\tools.jar"));
+            addURL.invoke(ClassLoader.getSystemClassLoader(), new URL("file:///" + System.getenv("JAVA_HOME") + "/lib/tools.jar"));
         } catch (Exception ex) {
             ex.printStackTrace();
         }
