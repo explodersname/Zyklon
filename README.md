@@ -1,7 +1,7 @@
 # Zyklon
 
 This fork of Zyklon is an attempt by me to make it compatible with linux based distros, if you have any ideas on how I can get this to work please make a ticket at: https://github.com/explodersname/Zylon/issues
-All credit for the majority of the code goes to @xertxa
+All credit for the majority of the code goes to https://github.com/xertxa
 # [ORIGINAL README.MD]
 
 ![](https://i.imgur.com/ykbhv5wg.png)<br>
